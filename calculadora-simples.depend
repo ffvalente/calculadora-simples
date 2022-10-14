@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665709519 source:c:\users\pichau\desktop\calculadora-simples\main.c
+	<stdio.h>
+	<stdlib.h>
+
